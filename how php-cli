@@ -1,0 +1,628 @@
+p   cakephp-scripts                 - rapid application development framework fo
+p   elpa-php-mode                   - PHP Mode for GNU Emacs                    
+p   icinga-php-library              - Icinga PHP Library for Icinga Web 2       
+p   icinga-php-thirdparty           - Icinga PHP Thirdparty libraries for Icinga
+p   kdevelop-php-l10n               - localization files for KDevelop PHP plugin
+p   libjs-php-date-formatter        - Manipulate date/times using PHP date-time 
+p   libphp-adodb                    - ADOdb is a PHP database abstraction layer 
+p   libphp-embed                    - HTML-embedded scripting language (Embedded
+v   libphp-embed:i386               -                                           
+p   libphp-jabber                   - Object-oriented PHP interface for the Jabb
+p   libphp-jpgraph                  - Object oriented graph library for php     
+p   libphp-jpgraph-examples         - Object oriented graph library for php (exa
+p   libphp-phpmailer                - full featured email transfer class for PHP
+p   libphp-serialization-perl       - Perl module to manipulate serialized PHP d
+p   libphp-simplepie                - RSS and Atom feed parsing in PHP          
+p   libphp-snoopy                   - Snoopy is a PHP class that simulates a web
+p   mlmmj-php-web                   - web interface for mlmmj, written in php   
+p   mlmmj-php-web-admin             - administrative web interface for mlmmj, wr
+p   php-all-dev                     - package depending on all supported PHP dev
+p   php-amqp                        - AMQP extension for PHP                    
+p   php-amqp-all-dev                - AMQP extension for PHP                    
+p   php-amqplib                     - pure PHP implementation of the AMQP protoc
+p   php-apcu                        - APC User Cache for PHP                    
+p   php-apcu-all-dev                - APC User Cache for PHP                    
+p   php-arthurhoaro-web-thumbnailer - PHP library which will retrieve a thumbnai
+p   php-ast                         - AST extension for PHP 7                   
+p   php-ast-all-dev                 - AST extension for PHP 7                   
+p   php-async-aws-core              - AsyncAws Core - AsyncAws component        
+p   php-async-aws-ses               - AsyncAws Ses - AsyncAws component         
+p   php-async-aws-sns               - AsyncAws Sns - AsyncAws component         
+p   php-async-aws-sqs               - AsyncAws Sqs - AsyncAws component         
+p   php-auth-sasl                   - Abstraction of various SASL mechanism resp
+v   php-autoload                    -                                           
+p   php-bacon-qr-code               - QR Code Generator for PHP                 
+i   php-bcmath                      - Bcmath module for PHP [default]           
+v   php-bcmath:i386                 -                                           
+p   php-bz2                         - bzip2 module for PHP [default]            
+v   php-bz2:i386                    -                                           
+p   php-cache-integration-tests     - Integration tests for PSR-6 and PSR-16 cac
+p   php-cache-lite                  - Fast and Safe little cache system         
+p   php-cache-tag-interop           - Framework interoperable interfaces for tag
+v   php-calendar                    -                                           
+v   php-calendar:i386               -                                           
+p   php-cas                         - Central Authentication Service client libr
+p   php-cgi                         - server-side, HTML-embedded scripting langu
+v   php-cgi:i386                    -                                           
+i   php-cli                         - command-line interpreter for the PHP scrip
+v   php-cli:i386                    -                                           
+p   php-codecoverage                - collection, processing, and rendering for 
+p   php-codesniffer                 - PHP, CSS and JavaScript coding standard an
+i A php-common                      - Common files for PHP packages             
+v   php-common:i386                 -                                           
+p   php-composer-ca-bundle          - utility library to find a path to the syst
+p   php-composer-metadata-minifier  - Small utility library that handles metadat
+p   php-composer-pcre               - PCRE wrapping library that offers type-saf
+p   php-composer-semver             - utilities, version constraint parsing and 
+p   php-composer-spdx-licenses      - SPDX licenses list and validation library 
+p   php-composer-xdebug-handler     - Restarts a process without Xdebug         
+p   php-console-commandline         - Full featured command line options and arg
+v   php-console-getopt              -                                           
+p   php-console-table               - Library that makes it easy to build consol
+p   php-constant-time               - Constant-time Implementations of RFC 4648 
+v   php-cpd                         -                                           
+p   php-crypt-gpg                   - PHP PEAR module for encrypting and decrypt
+v   php-ctype                       -                                           
+v   php-ctype:i386                  -                                           
+i   php-curl                        - CURL module for PHP [default]             
+v   php-curl:i386                   -                                           
+p   php-dapphp-radius               - pure PHP RADIUS client based on the SysCo/
+p   php-dasprid-enum                - PHP 7.1 enum implementation               
+p   php-date                        - Generic date/time handling class for PEAR 
+p   php-db                          - Database Abstraction Layer                
+v   php-dba                         -                                           
+v   php-dba:i386                    -                                           
+p   php-deepcopy                    - create deep copies (clones) of objects    
+v   php-depend                      -                                           
+p   php-dev                         - Files for PHP module development (default)
+p   php-directory-scanner           - recursive directory scanner and filter    
+p   php-doctrine-annotations        - Docblock Annotations Parser - Doctrine com
+p   php-doctrine-cache              - cache library - Doctrine component        
+p   php-doctrine-collections        - Collections Abstraction library - Doctrine
+p   php-doctrine-common             - common extensions for Doctrine            
+p   php-doctrine-data-fixtures      - Data Fixtures for all Doctrine Object Mana
+p   php-doctrine-dbal               - database abstraction layer for Doctrine   
+p   php-doctrine-deprecations       - Doctrine Deprecations - Doctrine component
+p   php-doctrine-event-manager      - Doctrine Event Manager component          
+p   php-doctrine-inflector          - string manipulations library - Doctrine co
+p   php-doctrine-instantiator       - lightweight utility to instantiate objects
+p   php-doctrine-lexer              - base lexer library - Doctrine component   
+p   php-doctrine-orm                - tool for object-relational mapping        
+p   php-doctrine-persistence        - Doctrine Persistence abstractions         
+p   php-doctrine-reflection         - Doctrine Reflection component             
+v   php-doctrine-sql-formatter      -                                           
+v   php-dom                         -                                           
+v   php-dom:i386                    -                                           
+p   php-dompdf                      - HTML to PDF converter                     
+p   php-dragonmantank-cron-expressi - cron expression parser for PHP            
+p   php-ds                          - PHP extension providing efficient data str
+p   php-ds-all-dev                  - PHP extension providing efficient data str
+p   php-easyrdf                     - PHP library to consume and produce RDF    
+v   php-egulias-email-validator     -                                           
+v   php-elisp                       -                                           
+p   php-email-validator             - A library for validating emails against se
+p   php-enchant                     - Enchant module for PHP [default]          
+v   php-enchant:i386                -                                           
+p   php-excimer                     - PHP extension that provides a non-static, 
+v   php-exif                        -                                           
+v   php-exif:i386                   -                                           
+p   php-facedetect                  - Detect faces with PHP                     
+p   php-fdomdocument                - extension to PHP's standard DOM           
+v   php-ffi                         -                                           
+v   php-ffi:i386                    -                                           
+p   php-fig-link-util               - Common utility implementations for HTTP li
+p   php-file-iterator               - FilterIterator implementation for PHP     
+v   php-fileinfo                    -                                           
+v   php-fileinfo:i386               -                                           
+p   php-finder-facade               - convenience wrapper for Symfony's Finder c
+p   php-finder-facade-doc           - convenience wrapper for Symfony's Finder c
+p   php-font-lib                    - read, parse, export and make subsets of di
+p   php-fpdf                        - PHP class to generate PDF files           
+p   php-fpm                         - server-side, HTML-embedded scripting langu
+v   php-fpm:i386                    -                                           
+v   php-friendsofphp-proxy-manager- -                                           
+v   php-ftp                         -                                           
+v   php-ftp:i386                    -                                           
+p   php-fxsl                        - XSL wrapper and extension to XSLTProcessor
+p   php-gd                          - GD module for PHP [default]               
+v   php-gd:i386                     -                                           
+p   php-gearman                     - PHP wrapper to libgearman                 
+p   php-gearman-all-dev             - PHP wrapper to libgearman                 
+p   php-geos                        - GEOS bindings for PHP                     
+p   php-geshi                       - Generic Syntax Highlighter                
+p   php-getallheaders               - A polyfill for getallheaders              
+p   php-getid3                      - scripts to extract information from multim
+p   php-gettext-languages           - gettext languages with plural rules       
+p   php-gmagick                     - Provides a wrapper to the GraphicsMagick l
+p   php-gmagick-all-dev             - Provides a wrapper to the GraphicsMagick l
+p   php-gmp                         - GMP module for PHP [default]              
+v   php-gmp:i386                    -                                           
+p   php-gnupg                       - PHP wrapper around the gpgme library      
+p   php-gnupg-all-dev               - PHP wrapper around the gpgme library      
+p   php-google-recaptcha            - reCAPTCHA PHP client library              
+p   php-guestfs                     - guest disk image management system - PHP b
+p   php-guzzlehttp-promises         - Guzzle promises library                   
+p   php-guzzlehttp-psr7             - PSR-7 message implementation that also pro
+p   php-hamcrest                    - This is the PHP port of Hamcrest Matchers 
+p   php-htmlawed                    - htmLawed PHP code to purify & filter HTML 
+p   php-htmlpurifier                - Standards-compliant HTML filter           
+p   php-http                        - PECL HTTP module for PHP Extended HTTP Sup
+p   php-http-all-dev                - PECL HTTP module for PHP Extended HTTP Sup
+p   php-http-httplug                - HTTPlug, the HTTP client abstraction for P
+p   php-http-interop-http-factory-t - Unit tests for HTTP factories             
+p   php-http-message-factory        - Factory interfaces for PSR-7 HTTP Message 
+p   php-http-promise                - Promise used for asynchronous HTTP request
+p   php-http-psr7-integration-tests - Test suite for PSR7                       
+p   php-http-request                - Provides an easy way to perform HTTP reque
+p   php-http-request2               - Provides an easy way to perform HTTP reque
+p   php-http-webdav-server          - WebDAV Server Baseclass                   
+p   php-httpful                     - A Readable, Chainable, REST friendly, PHP 
+p   php-icinga                      - PHP library to communicate with and use Ic
+v   php-iconv                       -                                           
+v   php-iconv:i386                  -                                           
+p   php-igbinary                    - igbinary PHP serializer                   
+p   php-igbinary-all-dev            - igbinary PHP serializer                   
+p   php-image-text                  - Image_Text - Advanced text maipulations in
+p   php-imagick                     - Provides a wrapper to the ImageMagick libr
+p   php-imagick-all-dev             - Provides a wrapper to the ImageMagick libr
+p   php-imap                        - IMAP module for PHP [default]             
+v   php-imap:i386                   -                                           
+p   php-interbase                   - Interbase module for PHP [default]        
+p   php-intl                        - Internationalisation module for PHP [defau
+v   php-intl:i386                   -                                           
+p   php-invoker                     - Invoke callables with a timeout           
+i   php-json                        - JSON module for PHP [default]             
+p   php-json-schema                 - implementation of JSON schema             
+p   php-klogger                     - simple logging class                      
+v   php-laminas-code                -                                           
+v   php-laminas-eventmanager        -                                           
+v   php-laminas-stdlib              -                                           
+p   php-ldap                        - LDAP module for PHP [default]             
+v   php-ldap:i386                   -                                           
+p   php-league-commonmark           - Markdown parser based on the CommonMark JS
+p   php-league-flysystem            - filesystem abstraction offering one API to
+p   php-league-html-to-markdown     - An HTML-to-markdown conversion helper for 
+p   php-league-mime-type-detection  - generic mime-type detection interface for 
+p   php-letodms-core                - Document management system                
+v   php-libsmbclient                -                                           
+p   php-libvirt-php                 - libvirt bindings for PHP                  
+v   php-loc                         -                                           
+p   php-log                         - Logging Framework                         
+p   php-lorenzo-pinky               - A Foundation for Emails (Inky) template tr
+p   php-luasandbox                  - PHP extension that provides a sandboxed Lu
+p   php-mail                        - Class that provides multiple interfaces fo
+p   php-mail-mime                   - PHP PEAR module for creating MIME messages
+p   php-mailparse                   - Email message manipulation for PHP        
+p   php-mailparse-all-dev           - Email message manipulation for PHP        
+p   php-malkusch-lock               - mutex library for exclusive code execution
+p   php-mapi                        - Complete and feature rich groupware soluti
+p   php-mariadb-mysql-kbs           - Knowledge base about MariaDB and MySQL ser
+p   php-masterminds-html5           - An HTML5 parser and serializer            
+v   php-math-biginteger             -                                           
+i   php-mbstring                    - MBSTRING module for PHP [default]         
+v   php-mbstring:i386               -                                           
+p   php-mdb2                        - database abstraction layer                
+p   php-mdb2-driver-mysql           - mysql MDB2 driver                         
+p   php-mdb2-driver-pgsql           - pgsql MDB2 driver                         
+p   php-memcache                    - memcache extension module for PHP         
+p   php-memcache-all-dev            - memcache extension module for PHP         
+p   php-memcached                   - memcached extension module for PHP, uses l
+p   php-memcached-all-dev           - memcached extension module for PHP, uses l
+p   php-mf2                         - Microformats2 is the simplest way to marku
+p   php-mikey179-vfsstream          - Virtual file system to mock the real file 
+p   php-mime-type                   - Utility class for dealing with MIME types 
+p   php-mock                        - mock built-in PHP functions               
+p   php-mock-integration            - integration package for PHP-Mock          
+p   php-mock-phpunit                - mock built-in PHP functions with PHPUnit  
+p   php-mockery                     - mock object framework for PHPUnit and othe
+p   php-mockery-doc                 - mock object framework for PHPUnit - docume
+p   php-mongodb                     - MongoDB driver for PHP                    
+p   php-mongodb-all-dev             - MongoDB driver for PHP                    
+p   php-monolog                     - send logs to various destination and web s
+p   php-msgpack                     - PHP extension for interfacing with Message
+p   php-msgpack-all-dev             - PHP extension for interfacing with Message
+v   php-myclabs-deep-copy           -                                           
+i   php-mysql                       - MySQL module for PHP [default]            
+v   php-mysqli                      -                                           
+v   php-mysqli:i386                 -                                           
+v   php-mysqlnd                     -                                           
+v   php-mysqlnd:i386                -                                           
+p   php-mythtv                      - PHP Bindings for MythTV                   
+p   php-net-dime                    - The Net_DIME package implements DIME encod
+p   php-net-dns2                    - PHP Resolver library used to communicate w
+p   php-net-ftp                     - Net_FTP provides an OO interface to the PH
+p   php-net-imap                    - Provides an implementation of the IMAP pro
+p   php-net-ipv6                    - Check and validate IPv6 addresses         
+p   php-net-ldap2                   - Object oriented interface for searching an
+p   php-net-ldap3                   - Object oriented interface for searching an
+p   php-net-nntp                    - NNTP implementation                       
+p   php-net-publicsuffix            - PHP module for detecting registered domain
+p   php-net-sieve                   - Handles talking to a sieve server         
+p   php-net-smtp                    - PHP PEAR module implementing SMTP protocol
+p   php-net-socket                  - Network Socket Interface                  
+p   php-net-url                     - Easy parsing of Urls                      
+p   php-net-url2                    - Class for parsing and handling URL        
+p   php-net-whois                   - PHP PEAR module for querying whois service
+p   php-netscape-bookmark-parser    - generic Netscape bookmark parser          
+p   php-nikic-fast-route            - Fast request router for PHP               
+p   php-nrk-predis                  - transitional dummy package for php-predis 
+p   php-nyholm-psr7                 - A fast PHP7 implementation of PSR-7       
+p   php-oauth                       - OAuth 1.0 consumer and provider extension 
+p   php-oauth-all-dev               - OAuth 1.0 consumer and provider extension 
+p   php-odbc                        - ODBC module for PHP [default]             
+v   php-odbc:i386                   -                                           
+v   php-opcache                     -                                           
+v   php-opcache:i386                -                                           
+p   php-opis-closure                - serializable closures (anonymous functions
+p   php-parsedown                   - Parser for Markdown                       
+p   php-parsedown-extra             - Markdown Extra extension for Parsedown    
+p   php-parser                      - convert PHP code into abstract syntax tree
+p   php-patchwork-utf8              - UTF-8 strings handling for PHP            
+p   php-pclzip                      - ZIP archive manager class for PHP         
+p   php-pcov                        - Code coverage driver                      
+p   php-pcov-all-dev                - Code coverage driver                      
+p   php-pda-pheanstalk              - PHP client for beanstalkd queue           
+v   php-pdepend                     -                                           
+v   php-pdo                         -                                           
+v   php-pdo:i386                    -                                           
+v   php-pdo-dblib                   -                                           
+v   php-pdo-dblib:i386              -                                           
+v   php-pdo-firebird                -                                           
+v   php-pdo-firebird:i386           -                                           
+v   php-pdo-mysql                   -                                           
+v   php-pdo-mysql:i386              -                                           
+v   php-pdo-odbc                    -                                           
+v   php-pdo-odbc:i386               -                                           
+v   php-pdo-pgsql                   -                                           
+v   php-pdo-pgsql:i386              -                                           
+v   php-pdo-sqlite                  -                                           
+v   php-pdo-sqlite:i386             -                                           
+p   php-pear                        - PEAR Base System                          
+v   php-pecl-http                   -                                           
+p   php-pgsql                       - PostgreSQL module for PHP [default]       
+v   php-pgsql:i386                  -                                           
+v   php-phar                        -                                           
+v   php-phar:i386                   -                                           
+p   php-phar-io-manifest            - reading phar.io manifest information from 
+p   php-phar-io-version             - handling version information and constrain
+p   php-php-gettext                 - read gettext MO files directly, without re
+v   php-php-http-async-client-imple -                                           
+v   php-php-http-client-implementat -                                           
+p   php-phpdbg                      - server-side, HTML-embedded scripting langu
+v   php-phpdbg:i386                 -                                           
+p   php-phpdocumentor-reflection-co - Common reflection classes - phpDocumentor 
+p   php-phpdocumentor-reflection-do - DocBlock parser - phpDocumentor component 
+p   php-phpdocumentor-type-resolver - TypeResolver and FqsenResolver - phpDocume
+p   php-phpmyadmin-motranslator     - translation API for PHP using Gettext MO f
+p   php-phpmyadmin-shapefile        - translation API for PHP using Gettext MO f
+p   php-phpmyadmin-sql-parser       - validating SQL lexer and parser           
+p   php-phpoption                   - Option type for PHP                       
+p   php-phpseclib                   - implementations of an arbitrary-precision 
+v   php-phpseclib-crypt-aes         -                                           
+v   php-phpseclib-crypt-base        -                                           
+v   php-phpseclib-crypt-blowfish    -                                           
+v   php-phpseclib-crypt-des         -                                           
+v   php-phpseclib-crypt-hash        -                                           
+v   php-phpseclib-crypt-random      -                                           
+v   php-phpseclib-crypt-rc4         -                                           
+v   php-phpseclib-crypt-rijndael    -                                           
+v   php-phpseclib-crypt-rsa         -                                           
+v   php-phpseclib-crypt-tripledes   -                                           
+v   php-phpseclib-crypt-twofish     -                                           
+v   php-phpseclib-file-ansi         -                                           
+v   php-phpseclib-file-asn1         -                                           
+v   php-phpseclib-file-x509         -                                           
+v   php-phpseclib-math-biginteger   -                                           
+v   php-phpseclib-net-sftp          -                                           
+v   php-phpseclib-net-ssh1          -                                           
+v   php-phpseclib-net-ssh2          -                                           
+v   php-phpseclib-system-ssh-agent  -                                           
+p   php-phpseclib3                  - implementations of an arbitrary-precision 
+p   php-phpspec-prophecy            - object mocking framework - phpspec compone
+p   php-phpspec-prophecy-phpunit    - Integrating the Prophecy mocking library i
+p   php-phpstan-phpdoc-parser       - PHPDoc parser with support for nullable, i
+v   php-pmd                         -                                           
+v   php-posix                       -                                           
+v   php-posix:i386                  -                                           
+p   php-predis                      - Flexible and feature-complete Redis client
+p   php-proxy-manager               - library providing utilities to operate wit
+p   php-ps                          - ps module for PHP                         
+p   php-ps-all-dev                  - ps module for PHP                         
+p   php-pspell                      - pspell module for PHP [default]           
+v   php-pspell:i386                 -                                           
+p   php-psr                         - PSR interfaces for PHP                    
+p   php-psr-all-dev                 - PSR interfaces for PHP                    
+p   php-psr-cache                   - Common interface for caching libraries    
+v   php-psr-cache-implementation    -                                           
+p   php-psr-container               - Common Container Interface (PHP FIG PSR-11
+v   php-psr-container-implementatio -                                           
+p   php-psr-event-dispatcher        - Standard interfaces for event handling    
+v   php-psr-event-dispatcher-implem -                                           
+p   php-psr-http-client             - Common interface for HTTP clients         
+v   php-psr-http-client-implementat -                                           
+p   php-psr-http-factory            - Common interfaces for PSR-7 HTTP message f
+v   php-psr-http-factory-implementa -                                           
+p   php-psr-http-message            - Common interface for HTTP messages        
+v   php-psr-http-message-implementa -                                           
+p   php-psr-link                    - Common interfaces for HTTP links          
+v   php-psr-link-implementation     -                                           
+p   php-psr-log                     - common interface for logging libraries    
+v   php-psr-log-implementation      -                                           
+p   php-psr-simple-cache            - Common interfaces for simple caching      
+v   php-psr-simple-cache-implementa -                                           
+p   php-pubsubhubbub-publisher      - WebSub publisher library for PHP          
+p   php-ramsey-uuid                 - RFC 4122 universally unique identifier (UU
+p   php-random-compat               - PHP 5.x polyfill for random_bytes() and ra
+p   php-raphf                       - raphf module for PHP                      
+p   php-raphf-all-dev               - raphf module for PHP                      
+p   php-react-promise               - lightweight implementation of CommonJS Pro
+p   php-readline                    - readline module for PHP [default]         
+v   php-readline:i386               -                                           
+p   php-redis                       - PHP extension for interfacing with Redis  
+p   php-redis-all-dev               - PHP extension for interfacing with Redis  
+p   php-remctl                      - PECL module for Kerberos-authenticated com
+p   php-roundcube-rtf-html-php      - RTF to HTML converter in PHP              
+p   php-rrd                         - PHP bindings to rrd tool system           
+p   php-rrd-all-dev                 - PHP bindings to rrd tool system           
+p   php-sabre-dav                   - WebDAV Framework for PHP                  
+p   php-sabre-vobject               - library to parse and manipulate iCalendar 
+p   php-sass                        - PHP bindings to libsass - fast, native Sas
+v   php-sebastian-resource-operatio -                                           
+p   php-seclib                      - implementations of an arbitrary-precision 
+p   php-services-json               - PHP implementaion of json_encode/decode   
+p   php-services-weather            - This class acts as an interface to various
+p   php-shellcommand                - An object oriented interface to shell comm
+v   php-shmop                       -                                           
+v   php-shmop:i386                  -                                           
+v   php-simplexml                   -                                           
+v   php-simplexml:i386              -                                           
+p   php-smbclient                   - PHP wrapper for libsmbclient              
+p   php-smbclient-all-dev           - PHP wrapper for libsmbclient              
+p   php-snmp                        - SNMP module for PHP [default]             
+v   php-snmp:i386                   -                                           
+p   php-soap                        - SOAP module for PHP [default]             
+v   php-soap:i386                   -                                           
+v   php-sockets                     -                                           
+v   php-sockets:i386                -                                           
+p   php-solr                        - PHP extension for communicating with Apach
+p   php-solr-all-dev                - PHP extension for communicating with Apach
+p   php-sql-formatter               - a PHP SQL highlighting library            
+p   php-sqlite3                     - SQLite3 module for PHP [default]          
+v   php-sqlite3:i386                -                                           
+p   php-ssh2                        - Bindings for the libssh2 library          
+p   php-ssh2-all-dev                - Bindings for the libssh2 library          
+v   php-structures-graph            -                                           
+p   php-swiftmailer                 - Swiftmailer, free feature-rich PHP mailer 
+p   php-sybase                      - Sybase module for PHP [default]           
+p   php-symfony                     - set of reusable components and framework f
+p   php-symfony-all-my-sms-notifier - Symfony AllMySms Notifier Bridge          
+p   php-symfony-amazon-mailer       - Symfony Amazon Mailer Bridge              
+p   php-symfony-amazon-sns-notifier - Symfony Amazon SNS Notifier Bridge        
+p   php-symfony-amazon-sqs-messenge - Symfony Amazon SQS extension Messenger Bri
+p   php-symfony-amqp-messenger      - Symfony AMQP extension Messenger Bridge   
+p   php-symfony-asset               - manage asset URLs                         
+p   php-symfony-beanstalkd-messenge - Symfony Beanstalkd Messenger Bridge       
+p   php-symfony-browser-kit         - simulate the behavior of a web browser    
+p   php-symfony-cache               - provides an extended PSR-6, PSR-16 (and ta
+p   php-symfony-cache-contracts     - Generic abstractions related to caching   
+v   php-symfony-cache-implementatio -                                           
+p   php-symfony-clickatell-notifier - Symfony Clickatell Notifier Bridge        
+p   php-symfony-config              - load configurations from different data so
+p   php-symfony-console             - run tasks from the command line           
+p   php-symfony-contracts           - A set of abstractions extracted out of the
+p   php-symfony-crowdin-translation - Symfony Crowdin Translation Provider Bridg
+p   php-symfony-css-selector        - convert CSS selectors to XPath expressions
+p   php-symfony-debug-bundle        - debugging tools for the Symfony framework 
+p   php-symfony-dependency-injectio - standardize and centralize construction of
+p   php-symfony-deprecation-contrac - A generic function and convention to trigg
+p   php-symfony-discord-notifier    - Symfony Discord Notifier Bridge           
+p   php-symfony-doctrine-bridge     - integration for Doctrine with Symfony Comp
+p   php-symfony-doctrine-messenger  - Symfony Doctrine Messenger Bridge         
+p   php-symfony-dom-crawler         - ease DOM navigation for HTML and XML docum
+p   php-symfony-dotenv              - .env files parser to make environment vari
+p   php-symfony-error-handler       - manage errors and ease debugging          
+p   php-symfony-esendex-notifier    - Symfony Esendex Notifier Bridge           
+p   php-symfony-event-dispatcher    - dispatch events and listen to them        
+p   php-symfony-event-dispatcher-co - Generic abstractions related to dispatchin
+v   php-symfony-event-dispatcher-im -                                           
+p   php-symfony-expo-notifier       - Symfony Expo Notifier Bridge              
+p   php-symfony-expression-language - compile and evaluate expressions          
+p   php-symfony-fake-chat-notifier  - Fake Chat (as email or log during developm
+p   php-symfony-fake-sms-notifier   - Fake SMS (as email or log during developme
+p   php-symfony-filesystem          - basic filesystem utilities                
+p   php-symfony-finder              - find files and directories                
+p   php-symfony-firebase-notifier   - Symfony Firebase Notifier Bridge          
+p   php-symfony-form                - create HTML forms and process request data
+p   php-symfony-framework-bundle    - basic, robust and flexible MVC framework  
+p   php-symfony-free-mobile-notifie - Symfony Free Mobile Notifier Bridge       
+p   php-symfony-gateway-api-notifie - Symfony GatewayApi Notifier Bridge        
+p   php-symfony-gitter-notifier     - Symfony Gitter Notifier Bridge            
+p   php-symfony-google-chat-notifie - Symfony Google Chat Notifier Bridge       
+p   php-symfony-google-mailer       - Symfony Google Mailer Bridge              
+p   php-symfony-http-client         - methods to fetch HTTP resources synchronou
+p   php-symfony-http-client-contrac - Generic abstractions related to HTTP clien
+v   php-symfony-http-client-impleme -                                           
+p   php-symfony-http-foundation     - object-oriented layer for the HTTP specifi
+p   php-symfony-http-kernel         - building blocks for flexible and fast HTTP
+p   php-symfony-inflector           - words conversion between their singular an
+p   php-symfony-infobip-notifier    - Symfony Infobip Notifier Bridge           
+p   php-symfony-intl                - limited replacement layer for the PHP exte
+p   php-symfony-iqsms-notifier      - Symfony Iqsms Notifier Bridge             
+p   php-symfony-ldap                - abstraction layer for the PHP LDAP module 
+p   php-symfony-light-sms-notifier  - Symfony LightSms Notifier Bridge          
+p   php-symfony-linked-in-notifier  - Symfony LinkedIn Notifier Bridge          
+p   php-symfony-lock                - create and manage locks                   
+p   php-symfony-loco-translation-pr - Symfony Loco Translation Provider Bridge  
+p   php-symfony-lokalise-translatio - Symfony Lokalise Translation Provider Brid
+p   php-symfony-mailchimp-mailer    - Symfony Mailchimp Mailer Bridge           
+p   php-symfony-mailer              - help sending emails                       
+p   php-symfony-mailgun-mailer      - Symfony Mailgun Mailer Bridge             
+p   php-symfony-mailjet-mailer      - Symfony Mailjet Mailer Bridge             
+p   php-symfony-mailjet-notifier    - Symfony Mailjet Notifier Bridge           
+p   php-symfony-mattermost-notifier - Symfony Mattermost Notifier Bridge        
+p   php-symfony-mercure             - publisher part of the Mercure Protocol    
+p   php-symfony-mercure-notifier    - Symfony Mercure Notifier Bridge           
+p   php-symfony-message-bird-notifi - Symfony MessageBird Notifier Bridge       
+p   php-symfony-message-media-notif - Symfony MessageMedia Notifier Bridge      
+p   php-symfony-messenger           - send and receive messages                 
+p   php-symfony-microsoft-teams-not - Symfony Microsoft Teams Notifier Bridge   
+p   php-symfony-mime                - library to manipulate MIME messages       
+p   php-symfony-mobyt-notifier      - Symfony Mobyt Notifier Bridge             
+p   php-symfony-monolog-bridge      - integration for Monolog with Symfony Compo
+p   php-symfony-nexmo-notifier      - Symfony Nexmo Notifier Bridge             
+p   php-symfony-notifier            - Sends notifications via one or more channe
+p   php-symfony-octopush-notifier   - Symfony Octopush Notifier Bridge          
+p   php-symfony-oh-my-smtp-mailer   - Symfony OhMySMTP Mailer Bridge            
+p   php-symfony-one-signal-notifier - Symfony OneSignal Notifier Bridge         
+p   php-symfony-options-resolver    - configure objects with option arrays      
+p   php-symfony-ovh-cloud-notifier  - Symfony OvhCloud Notifier Bridge          
+p   php-symfony-password-hasher     - password hashing utilities - Symfony Compo
+p   php-symfony-phpunit-bridge      - integration for PHPUnit with Symfony Compo
+p   php-symfony-polyfill            - Symfony polyfills backporting features to 
+p   php-symfony-polyfill-apcu       - Symfony polyfill backporting apcu_* functi
+p   php-symfony-polyfill-ctype      - Symfony polyfill for ctype functions      
+p   php-symfony-polyfill-iconv      - Symfony polyfill for the Iconv extension  
+p   php-symfony-polyfill-intl-graph - Symfony polyfill for intl's grapheme_* fun
+p   php-symfony-polyfill-intl-icu   - Symfony polyfill for intl's ICU-related da
+p   php-symfony-polyfill-intl-idn   - Symfony polyfill for intl's idn_to_ascii a
+p   php-symfony-polyfill-intl-messa - Symfony polyfill for intl's MessageFormatt
+p   php-symfony-polyfill-intl-norma - Symfony polyfill for intl's Normalizer cla
+p   php-symfony-polyfill-mbstring   - Symfony polyfill for the Mbstring extensio
+p   php-symfony-polyfill-php72      - Symfony polyfill backporting some PHP 7.2+
+p   php-symfony-polyfill-php73      - Symfony polyfill backporting some PHP 7.3+
+p   php-symfony-polyfill-php74      - Symfony polyfill backporting some PHP 7.4+
+p   php-symfony-polyfill-php80      - Symfony polyfill backporting some PHP 8.0+
+p   php-symfony-polyfill-php81      - Symfony polyfill backporting some PHP 8.1+
+p   php-symfony-polyfill-util       - Symfony utilities for portability of PHP c
+p   php-symfony-polyfill-uuid       - Symfony polyfill for uuid functions       
+p   php-symfony-polyfill-xml        - Symfony polyfill for xml's utf8_encode and
+p   php-symfony-postmark-mailer     - Symfony Postmark Mailer Bridge            
+p   php-symfony-process             - execute commands in sub-processes         
+p   php-symfony-property-access     - read from and write to an object or array 
+p   php-symfony-property-info       - extract information about properties of PH
+p   php-symfony-proxy-manager-bridg - integration for ProxyManager with Symfony 
+p   php-symfony-rate-limiter        - rate limit input and output in application
+p   php-symfony-redis-messenger     - Symfony Redis extension Messenger Bridge  
+p   php-symfony-rocket-chat-notifie - Symfony RocketChat Notifier Bridge        
+p   php-symfony-routing             - associate a request with code that generat
+p   php-symfony-runtime             - decouple PHP applications from global stat
+p   php-symfony-security-acl        - Symfony Security Component - ACL (Access C
+p   php-symfony-security-bundle     - configurable security system for the Symfo
+p   php-symfony-security-core       - infrastructure for authorization systems -
+p   php-symfony-security-csrf       - infrastructure for authorization systems -
+p   php-symfony-security-guard      - infrastructure for authorization systems -
+p   php-symfony-security-http       - infrastructure for authorization systems -
+p   php-symfony-semaphore           - provide exclusive access to a shared resou
+p   php-symfony-sendgrid-mailer     - Symfony Sendgrid Mailer Bridge            
+p   php-symfony-sendinblue-mailer   - Symfony Sendinblue Mailer Bridge          
+p   php-symfony-sendinblue-notifier - Symfony Sendinblue Notifier Bridge        
+p   php-symfony-serializer          - convert PHP objects into specific formats 
+p   php-symfony-service-contracts   - Generic abstractions related to writing se
+v   php-symfony-service-implementat -                                           
+p   php-symfony-sinch-notifier      - Symfony Sinch Notifier Bridge             
+p   php-symfony-slack-notifier      - Symfony Slack Notifier Bridge             
+p   php-symfony-sms-biuras-notifier - Symfony SmsBiuras Notifier Bridge         
+p   php-symfony-sms77-notifier      - Symfony sms77 Notifier Bridge             
+p   php-symfony-smsapi-notifier     - Symfony Smsapi Notifier Bridge            
+p   php-symfony-smsc-notifier       - Symfony SMSC Notifier Bridge              
+p   php-symfony-spot-hit-notifier   - Symfony Spot-Hit Notifier Bridge          
+p   php-symfony-stopwatch           - profile PHP code                          
+p   php-symfony-string              - object-oriented API to work with strings  
+p   php-symfony-telegram-notifier   - Symfony Telegram Notifier Bridge          
+p   php-symfony-telnyx-notifier     - Symfony Telnyx Notifier Bridge            
+p   php-symfony-templating          - tools needed to build a template system   
+p   php-symfony-translation         - tools to internationalize an application  
+p   php-symfony-translation-contrac - Generic abstractions related to translatio
+v   php-symfony-translation-impleme -                                           
+p   php-symfony-turbo-sms-notifier  - Symfony TurboSms Notifier Bridge          
+p   php-symfony-twig-bridge         - integration for Twig with Symfony Componen
+p   php-symfony-twig-bundle         - configurable integration of Twig with the 
+p   php-symfony-twilio-notifier     - Symfony Twilio Notifier Bridge            
+p   php-symfony-uid                 - object-oriented API to generate and repres
+p   php-symfony-validator           - tools to validate values                  
+p   php-symfony-var-dumper          - mechanisms for walking through any arbitra
+p   php-symfony-var-exporter        - export serializable PHP data structure to 
+p   php-symfony-vonage-notifier     - Symfony Vonage Notifier Bridge            
+p   php-symfony-web-link            - manage links between resources            
+p   php-symfony-web-profiler-bundle - collect requests information for analysis 
+p   php-symfony-workflow            - manage a workflow or finite state machine 
+p   php-symfony-yaml                - convert YAML to PHP arrays and the other w
+p   php-symfony-yunpian-notifier    - Symfony Yunpian Notifier Bridge           
+p   php-symfony-zulip-notifier      - Symfony Zulip Notifier Bridge             
+v   php-sysvmsg                     -                                           
+v   php-sysvmsg:i386                -                                           
+v   php-sysvsem                     -                                           
+v   php-sysvsem:i386                -                                           
+v   php-sysvshm                     -                                           
+v   php-sysvshm:i386                -                                           
+p   php-tcpdf                       - PHP class for generating PDF files on-the-
+p   php-text-captcha                - Generation of CAPTCHAs                    
+p   php-text-figlet                 - Engine for use FIGlet fonts to rendering t
+p   php-text-languagedetect         - Language detection class                  
+p   php-text-password               - Creating passwords with PHP               
+p   php-text-template               - Simple template engine                    
+p   php-text-wiki                   - transform Wiki and BBCode markup into XHTM
+p   php-thrift                      - PHP language support for Thrift           
+p   php-tideways                    - Tideways PHP Profiler Extension           
+p   php-tidy                        - tidy module for PHP [default]             
+v   php-tidy:i386                   -                                           
+p   php-tijsverkoyen-css-to-inline- - convert HTML into HTML with inline styles 
+p   php-timer                       - Utility class for timing                  
+p   php-token-stream                - Wrapper around PHP's tokenizer extension  
+i   php-tokenizer                   - tokenized PHP source to XML converter     
+v   php-tokenizer:i386              -                                           
+p   php-twig                        - Flexible, fast, and secure template engine
+p   php-twig-cache-extra            - A Twig extension for Symfony Cache        
+p   php-twig-cssinliner-extra       - A Twig extension to allow inlining CSS    
+p   php-twig-doc                    - Twig template engine documentation        
+p   php-twig-extra-bundle           - A Symfony bundle for extra Twig extensions
+p   php-twig-html-extra             - A Twig extension for HTML                 
+p   php-twig-i18n-extension         - i18n extension for the Twig template syste
+p   php-twig-inky-extra             - A Twig extension for the inky email templa
+p   php-twig-intl-extra             - A Twig extension for Intl                 
+p   php-twig-markdown-extra         - A Twig extension for Markdown             
+p   php-twig-string-extra           - A Twig extension for Symfony String       
+p   php-uopz                        - UOPZ extension for PHP 7                  
+p   php-uopz-all-dev                - UOPZ extension for PHP 7                  
+p   php-uploadprogress              - file upload progress tracking extension fo
+p   php-uploadprogress-all-dev      - file upload progress tracking extension fo
+p   php-uuid                        - PHP UUID extension                        
+p   php-uuid-all-dev                - PHP UUID extension                        
+p   php-validate                    - validation class                          
+p   php-vlucas-phpdotenv            - environment variable file loader for PHP  
+p   php-webmozart-assert            - Assertions to validate method input/output
+p   php-wikidiff2                   - external diff engine for mediawiki        
+p   php-xajax                       - A library to develop Ajax applications    
+p   php-xdebug                      - Xdebug Module for PHP                     
+p   php-xdebug-all-dev              - Xdebug Module for PHP                     
+i   php-xml                         - DOM, SimpleXML, WDDX, XML, and XSL module 
+v   php-xml:i386                    -                                           
+p   php-xml-htmlsax3                - SAX parser for HTML and other badly formed
+p   php-xml-rpc2                    - PHP XML-RPC client/server library         
+p   php-xml-svg                     - XML_SVG API                               
+v   php-xml-util                    -                                           
+v   php-xmlreader                   -                                           
+v   php-xmlreader:i386              -                                           
+p   php-xmlrpc                      - XML-RPC servers and clients functions for 
+p   php-xmlrpc-all-dev              - XML-RPC servers and clients functions for 
+v   php-xmlwriter                   -                                           
+v   php-xmlwriter:i386              -                                           
+v   php-xsl                         -                                           
+v   php-xsl:i386                    -                                           
+p   php-yac                         - YAC (Yet Another Cache) for PHP           
+p   php-yac-all-dev                 - YAC (Yet Another Cache) for PHP           
+p   php-yaml                        - YAML-1.1 parser and emitter for PHP       
+p   php-yaml-all-dev                - YAML-1.1 parser and emitter for PHP       
+p   php-zend-code                   - Laminas Project - Code component          
+p   php-zend-eventmanager           - Laminas Project - EventManager component  
+p   php-zend-stdlib                 - Laminas Project - Stdlib component        
+p   php-zeroc-ice                   - PHP extension for Ice                     
+p   php-zeta-base                   - Zeta Components - Base package            
+p   php-zeta-console-tools          - Zeta Components - ConsoleTools package    
+p   php-zeta-unit-test              - Zeta Components - UnitTest package        
+i   php-zip                         - Zip module for PHP [default]              
+v   php-zip:i386                    -                                           
+p   php-zmq                         - ZeroMQ messaging bindings for PHP         
+p   php-zmq-all-dev                 - ZeroMQ messaging bindings for PHP         
+v   phpunit-php-code-coverage       -                                           
+p   pkg-php-tools                   - various packaging tools and scripts for PH
