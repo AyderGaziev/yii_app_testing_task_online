@@ -2,10 +2,14 @@
 
 /** @var yii\web\View $this */
 
+use yii\helpers\Html;
+
 $this->title = 'My Yii Application';
 ?>
 <div class="site-index">
 
+
+    <?= Html::a('Files', ['file/'], ['class' => 'btn btn-success']) ?>
     <div class="jumbotron text-center bg-transparent mt-5 mb-5">
         <h1 class="display-4">Congratulations!</h1>
 
